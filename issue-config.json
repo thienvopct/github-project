@@ -1,0 +1,10 @@
+{
+  "issues": [
+    {
+      "path": "/xxx",
+      "title": "XXXXX `{componentPath}`",
+      "labels": ["chore", "improvement"],
+      "bodyTemplate": "issue-body-template.md"
+    }
+  ]
+}
